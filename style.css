@@ -14,7 +14,7 @@ header {
 }
 
 
-section{
+.chamada{
 
     background: rgb(52,143,10);
     padding-bottom: 80px;
@@ -43,4 +43,9 @@ img {
     display: flex;
     overflow-x: auto;
     gap: 10px;
+}
+
+section {
+    padding-left: 20px;
+    padding-right: 20px;
 }
